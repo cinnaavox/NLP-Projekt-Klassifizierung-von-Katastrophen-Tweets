@@ -120,11 +120,15 @@ Wenn ich das Projekt erweitern würde:
 
 ---
 
-## 💻 Projekt-Notebook
+## 💻 Projekt-Notebook und Präsentation
 
 Hier findest du das vollständige Colab-Notebook mit allen Code-Zellen, Auswertungen und Visualisierungen:
 
 👉 **[Klick hier, um das Notebook zu öffnen](https://colab.research.google.com/drive/1FKv3lVJh5tHWga-jMcdc2srv_f7tQZQi?usp=sharing)**  
+
+Und hier findest du die dazu passende Präsentation:
+
+👉 **[Klick hier, um die Präsentation zu öffnen](https://www.canva.com/design/DAG5_OdMV_U/pWaS03bKNLiNdcyLEWRe1Q/edit?utm_content=DAG5_OdMV_U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**  
 
 ---
 
